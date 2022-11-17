@@ -4,16 +4,16 @@ This is a simple library management system (prototype) I built with Java as part
 
 ## Features (as of 17/11/2022):
 
--Add member to Library
--View members
--Add book to Library
--View books (Name, Author, Availability Status)
--Issue new book (Book and Student ID)
--View pending book issues
--Return book (Book and student ID, with validation of ID input) + Fine Calculation
- for extra days
--View record of returns
--Data stored in local filesystem
+- Add member to Library
+- View members
+- Add book to Library
+- View books (Name, Author, Availability Status)
+- Issue new book (Book and Student ID)
+- View pending book issues
+- Return book (Book and student ID, with validation of ID input) + Fine Calculation
+  for extra days
+- View record of returns
+- Data stored in local filesystem
 
 
 # Tech used:
