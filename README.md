@@ -2,7 +2,7 @@
 
 This is a simple library management system (prototype) I built with Java as part of a Hackathon.
 
-##Features (as of 17/11/2022):
+## Features (as of 17/11/2022):
 
 -Add member to Library
 -View members
@@ -16,7 +16,7 @@ This is a simple library management system (prototype) I built with Java as part
 -Data stored in local filesystem
 
 
-##Tech used:
+# Tech used:
 -Java Swing (GUI)
 -OpenCSV
 
